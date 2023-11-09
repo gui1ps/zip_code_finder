@@ -24,4 +24,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #api Key
-./src/Functions/returnApiKey.js
+/src/Functions/returnApiKey.js
